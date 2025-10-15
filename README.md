@@ -1,5 +1,5 @@
 # Computer-Aided-Diagnosis-for-Femur-Proximal-Fracture-Detection
-##A deep learning YOLO-based system for detecting femur proximal fracture
+A deep learning YOLO-based system for detecting femur proximal fracture
 
 This repository contains a desktop application designed for the detection of proximal femur fractures from X-ray images. The application leverages a deep learning model, YOLO11-N, which was trained on an X-ray AP pelvis open source dataset.The application provides a user-friendly graphical interface built with tkinter, allowing for real-time fracture detection, image manipulation, and analysis of model predictions. It is a comprehensive tool for both clinical use and training/evaluation purposes.
 
